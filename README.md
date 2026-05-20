@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dam-break/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Dam Break](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dam-break/) |
+| **Get License** | [Official Music Licensing for Dam Break](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dam-break/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tainu main takda haan nasha chadh jaye feel the heat
+> Raatan vi kachiyan ne lagdi kamaal make it sweet
+> Piche main aunda haan mud k na vekh turn around
+> Jaan tere utte vaari sohniye main own the ground
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
