@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dam Break
+
+This log tracks the cryptographic history and versioning for the song **Dam Break** (dam-break).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-21T03:23:58.003692 | `v1` | `c45d182bed12cec67c2703260d22dff314e898ae93232e8a0451d537710bd778` | `8d8e51f301a4f77843ada76b17eda098b304e74a2cc818331634fc6676a77d44` | `2026-05-21_dam-break-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
